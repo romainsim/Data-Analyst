@@ -4,6 +4,6 @@ Résumé du projet:
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data."
 
-Source du projet: codebasics.io
+Source du projet: [codebasics.io](codesbasics.io)
 
 Le tableau de bord est disponible directement au format pdf. Cependant on perd l'intéractivité, pour la retrouver le fichier direct PowerBI est fourni.
