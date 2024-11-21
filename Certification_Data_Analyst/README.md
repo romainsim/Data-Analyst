@@ -1,0 +1,2 @@
+Ce répertoire contient le rapport (en anglais) que j'ai effectué lors de l'examen pratique pour ma certification 'Professional Data Analyst by DataCamp'.
+Vous pouvez retrouver les détails de la certification [ici](https://app.datacamp.com/certification/get-started/data-analyst/overview).

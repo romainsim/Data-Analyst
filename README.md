@@ -1,0 +1,1 @@
+Dans ce répertoire, vous pourrez retrouver les différents projets que j'ai effectué en rapport avec l'analyse de données.
